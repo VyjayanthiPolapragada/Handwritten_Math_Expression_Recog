@@ -4,7 +4,7 @@ A deep learning pipeline to recognize and convert handwritten mathematical expre
 
 ## Features
 
-- **InkML to Image Conversion**: Converts handwritten InkML stroke data into PNG images for model input.  
+- **InkML to Image Conversion**: Converts handwritten InkML stroke data into PNG images and their corresponding labels for model input.  
 - **Multiple Model Architectures**:
   - CNN + LSTM  
   - ResNet + Transformer  
